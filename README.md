@@ -16,3 +16,5 @@
 📌 **2D**:
 * Train: [UWMGI: Unet [Train] [PyTorch]](https://www.kaggle.com/code/awsaf49/uwmgi-unet-train-pytorch/)
 * Infer: [UWMGI: Unet [Infer] [PyTorch]](https://www.kaggle.com/code/awsaf49/uwmgi-unet-infer-pytorch/)(LB:0.84+)
+
+> **Note**: Codes/Notebooks are also available in [`\notebooks`](/notebooks) folder.
